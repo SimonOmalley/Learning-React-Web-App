@@ -1,0 +1,9 @@
+{
+  "name": "learning-react-web-app",
+  "version": "0.0.0",
+  "description": "Learning React Web App",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
